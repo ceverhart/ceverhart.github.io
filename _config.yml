@@ -1,0 +1,8 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Christian
+description: "Christian Everhart site on gh-pages"
+
+# Build settings
+remote_theme: jekyll/minima
