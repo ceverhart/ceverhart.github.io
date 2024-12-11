@@ -6,6 +6,9 @@ Every problem/project/task gets very careful consideration regardless of size or
 
 ### Passion for...
 
-- Taking on new challenges
+- Implementing new processes
 - Continuous improvement
 - Monitoring
+
+### Productivity
+
