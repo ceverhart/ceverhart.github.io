@@ -1,5 +1,4 @@
 <!--# ceverhart.github.io-->
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -7,7 +6,9 @@
   </head>
   <body>
     <div class="">
-      <p>When you hire or work with me, this is what you get</p>
+      <p>
+        <h2>When you hire or work with me, this is what you get</h2>
+      </p>
     </div>
   </body>
 </html>
