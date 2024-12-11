@@ -2,7 +2,7 @@
 ## When you hire or work with me, this is what you get
 ### Details matter (a lot) 
 
-Every problem/project/task very careful consideration no matter how big or small
+Every problem/project/task gets very careful consideration regardless of size or scope
 
 ### Passion for...
 
