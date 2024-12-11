@@ -1,5 +1,5 @@
 <!--# ceverhart.github.io-->
-## When you hire or work with me, this is what you get...
+## About me
 
 ### Details matter (a lot) 
 
