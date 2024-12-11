@@ -3,5 +3,5 @@
 ### Details matter,a lot. 
 I give every problem/project/task very careful consideration no matter how big or small
 ### Passion for...
-  Taking on new challenges
-  Continuous improvement
+- Taking on new challenges
+- Continuous improvement
