@@ -1,9 +1,5 @@
 <!--# ceverhart.github.io-->
 
----
-id: getting-started
----
-
 ## About me
 
 ### Details matter (a lot) 
@@ -29,3 +25,8 @@ id: getting-started
 ### Teamwork
 
 - There's such a wealth of knowledge in all of us. It's always rewarding to work with teammates (direct or cross-functional), as well as internal and external customers
+
+
+---
+id: productivity
+---
