@@ -20,6 +20,9 @@
   <body>
       <div id="header">
         <nav>
+          {% for page in site.pages %}
+              <a href={{ page.filename }}>{{ page.title }}</a>
+          {% endfor %}
           <ul>
             <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
             {% if site.show_downloads %}
