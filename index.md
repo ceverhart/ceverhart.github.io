@@ -2,6 +2,7 @@
 title: About Christian Everhart
 layout: template
 filename: index
+description: About me
 --- 
 
 ## About me
