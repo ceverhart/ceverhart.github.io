@@ -1,6 +1,8 @@
 <!--# ceverhart.github.io-->
 
+---
 id: getting-started
+---
 
 ## About me
 
