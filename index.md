@@ -5,8 +5,6 @@ filename: index
 description: Christian Everhart
 --- 
 
-## About me
-
 ### Details matter (a lot) 
 
 - Every problem/project/task gets very careful consideration regardless of size or scope
