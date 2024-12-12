@@ -1,8 +1,8 @@
 ---
-title: Christian Everhart
+title: About me
 layout: template
 filename: index
-description: About me
+description: Christian Everhart
 --- 
 
 ## About me
