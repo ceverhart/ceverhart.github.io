@@ -1,4 +1,3 @@
-<!--# ceverhart.github.io-->
 ---
 title: About Christian Everhart
 layout: template
