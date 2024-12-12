@@ -1,3 +1,7 @@
+---
+id: productivity
+---
+
 <!--# ceverhart.github.io-->
 
 ## About me
@@ -25,8 +29,3 @@
 ### Teamwork
 
 - There's such a wealth of knowledge in all of us. It's always rewarding to work with teammates (direct or cross-functional), as well as internal and external customers
-
-
----
-id: productivity
----
