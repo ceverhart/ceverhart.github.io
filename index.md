@@ -14,7 +14,6 @@ description: Christian Everhart
 - Whether it's implemention, continuous improvement, or ongoing monitoring; I approach every process or data challenge equally.
 
 ### Productivity
-[Productivity](https://ceverhart.github.io/productivity)
 
 - Productivity techniques allow us to get more done, and also **enjoy our work**
 
