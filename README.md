@@ -1,8 +1,9 @@
+<!--# ceverhart.github.io-->
+
 ---
 id: productivity
 ---
 
-<!--# ceverhart.github.io-->
 
 ## About me
 
