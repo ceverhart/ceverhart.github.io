@@ -1,4 +1,7 @@
 <!--# ceverhart.github.io-->
+
+id: getting-started
+
 ## About me
 
 ### Details matter (a lot) 
