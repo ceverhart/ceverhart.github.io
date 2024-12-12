@@ -1,11 +1,5 @@
 <!--# ceverhart.github.io-->
 
----
-id: productivity
-title: productivity
----
-
-
 ## About me
 
 ### Details matter (a lot) 
@@ -16,7 +10,7 @@ title: productivity
 
 - Whether it's implemention, continuous improvement, or ongoing monitoring; I approach every process or data challenge equally.
 
-### Productivity
+### Productivity [Duck Duck Go](https://duckduckgo.com)
 
 - Productivity techniques allow us to get more done, and also **enjoy our work**
 
