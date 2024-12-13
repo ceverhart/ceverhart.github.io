@@ -21,6 +21,9 @@
       <div id="header">
         <nav>
           <ul>
+            {% for page in site.pages %}
+               <li class="fork"><a href={{ page.filename }}>{{ page.title }}</a>/li>
+            {% endfor %}
             <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
             {% if site.show_downloads %}
               <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
@@ -34,12 +37,6 @@
     <div class="wrapper">
 
       <section>
-        <navbar type="dark">
-          <li><a href="www.google.com" class="nav-link">Google</a></li>
-        </navbar>
-        {% for page in site.pages %}
-            <a href={{ page.filename }}>{{ page.title }}</a>
-        {% endfor %}
         <div id="title">
           <h1>{{ page.description }}</h1>
           <p>{{ site.description | page.description }}</p>
