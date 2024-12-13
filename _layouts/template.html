@@ -23,7 +23,6 @@
           <ul>
             {% for page in site.pages %}
                <li class="fork"><a href={{ page.filename }}>{{ page.title }}</a></li>
-            {{ page.filename }}
             {% endfor %}
             <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
             {% if site.show_downloads %}
