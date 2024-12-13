@@ -16,5 +16,4 @@ I truly believe that developing good productivity techniques allow us to get mor
 ### Implementation
 [Weekly setup](https://ceverhartportfolio.blogspot.com/2024/12/productivity-system-weekly-setup.html)
 
-[Daily practice]
-(https://ceverhartportfolio.blogspot.com/2024/12/productivity-system-daily-practice.html)
+[Daily practice](https://ceverhartportfolio.blogspot.com/2024/12/productivity-system-daily-practice.html)
