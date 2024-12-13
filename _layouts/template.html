@@ -34,8 +34,11 @@
     <div class="wrapper">
 
       <section>
+        <navbar type="dark">
+          <li><a href="www.google.com" class="dropdown-item">Google</a></li>
+        </navbar>
         {% for page in site.pages %}
-            <span><a href={{ page.filename }}>{{ page.title }}</a></span>
+            <a href={{ page.filename }}>{{ page.title }}</a>
         {% endfor %}
         <div id="title">
           <h1>{{ page.description }}</h1>
