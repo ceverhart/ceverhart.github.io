@@ -10,102 +10,68 @@ It can be difficult to summarize all of the work we do and keep it to one or two
 __Programming and Automation__
 
 * Leveraging tools already owned by the client/employer or free and open-source tools/modules 
-
 * Development scenarios
-
-*  Projects
-
-*  Single purpose tools
-
-Emergency/trouble-shooting (quick turn-around)
-
-Python programming
-
-Tools
-
-Jupyter Notebook, Azure Data Studio
-
-IDLE (Python)
-
-Visual Studio
-
-Python Package Index - utilize freely available packages
-
-Custom development
+  * Projects
+  * Single purpose tools
+  * Emergency/trouble-shooting (quick turn-around)
+* Python programming
+  * Tools
+    * Jupyter Notebook, Azure Data Studio
+    * IDLE (Python)
+    * Visual Studio
+  * Python Package Index - utilize freely available packages
+  * Custom development
 
 __Geospatial__
 
-Geoprocessing automation 
-
-Python modules (laspy, GDAL, OGR, etc.)
-
-ArcPy
-
-GIS desktop applications
-
-GUI setup and training
-
-QGIS, ArcGIS, others
-
-Install and configuration
-
-Remote sensing (LiDAR)
-
-Post-processing pipeline
-
-QA/QC - custom QA/QC tools
-
-Acquisition tracking and planning using GIS tools
-
-LAS format specification
-
-Use for tool development
-
-Understand COTS processing software
-
-Product generation (DEM, contours, CSV, intensity image)
-
-Orthophoto/Photogrammetry
-
-Orthophoto processing pipeline 
-
-Knowledge of photogrammetry principles 
+* Geoprocessing automation 
+  * Open source Python modules (laspy, GDAL, OGR, etc.)
+  * ArcPy
+  * APIs from other commercial or free applications
+* GIS desktop applications
+  * GUI setup and training
+  * QGIS, ArcGIS, others
+  * Install and configuration
+* Remote sensing (LiDAR)
+  * Post-processing pipeline
+  * QA/QC - custom QA/QC tools
+  * Acquisition tracking and planning using GIS tools
+  * LAS format specification
+    * Tool development
+    * Use in COTS processing software
+    * Product development
+  * Product generation (DEM, contours, CSV, intensity image)
+* Orthophoto/Photogrammetry
+    * Orthophoto processing pipeline 
+    * Knowledge of photogrammetry principles 
 
 __Web development, web services, and APIs__
 
-OGC web service types
-
-Web mapping development
-
-Leveraging REST APIs and other internet web services
+* OGC web service types
+* Web mapping development (PHP, GeoDjango)
+* Leveraging REST APIs and other internet web services
 
 __Database and Data Management__
 
-SQL development
-
-Various DBMS: MS SQL, Oracle, PostgreSQL/PostGIS
-
-Tools: SSMS, SQL Developer
-
-MS SQL stored procedures, views, functions, and stand-alone queries)
-
-ETL processes (SSIS, Azure Data Studio)
+* SQL development
+  * Experience with various DBMS: MS SQL, Oracle, PostgreSQL/PostGIS
+  * Tools: SSMS, SQL Developer
+  * MS SQL stored procedures, views, functions, and stand-alone queries)
+* ETL processes (SSIS, Azure Data Studio)
 
 __Reporting__
 
-Report development and generation
+* Report development and generation
 
 __R&D and Problem-Solving__
 
-Learning and integrating new tools and technologies
-
-Troubleshooting software, data, and workflows
+* Learning and integrating new tools and technologies
+* Troubleshooting software, data, and workflows
 
 __General Geography/GIS/Remote sensing knowledge__
 
-BA in Geography, MEng in GIS
-
-Coordinate systems, transformations, maps
+* BA in Geography, MEng in GIS
+* Coordinate systems, transformations, maps
 
 ## Phases of my career - remote sensing and GIS
 
