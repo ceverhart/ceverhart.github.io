@@ -21,6 +21,9 @@ __Programming and Automation__
     * Visual Studio
   * Python Package Index - utilize freely available packages
   * Custom development
+ * Development lifecycle tools
+  *  Git/GitHub, SVN
+  *  Jira, Trello 
 
 __Geospatial__
 
@@ -67,11 +70,17 @@ __R&D and Problem-Solving__
 
 * Learning and integrating new tools and technologies
 * Troubleshooting software, data, and workflows
+  
+__Productivity__
+
+* Confluence/OneNote for notes and tracking projects
+* Developed a personal productivity method based on "rule of 3" (3 weekly goals, 3 daily goals)
 
 __General Geography/GIS/Remote sensing knowledge__
 
 * BA in Geography, MEng in GIS
 * Coordinate systems, transformations, maps
+
 
 ## Phases of my career - remote sensing and GIS
 
