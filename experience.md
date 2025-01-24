@@ -82,6 +82,7 @@ __General Geography/GIS/Remote sensing knowledge__
 * Coordinate systems, transformations, maps
 
 
+---
 ## Phases of my career - remote sensing and GIS
 
 ### Undergraduate
