@@ -22,3 +22,5 @@ Freshly graduated, I got my first job and moved out of state. The company was co
 ### LiDAR
 
 I left the big mapping company and joined a small, scrappy company doing aerial photography and orthophotos in order to move to Denver. It was a good experience, but just a stepping stone to the next big phase of my career. My next job was with a small, grassroots LiDAR company - with proprietary processing software and a homegrown LiDAR system. At first, it was a lot of editing - a CAD application would draw contours for the point cloud and we would remove points that appeared to be trees (concentric contours) or buildings (stacked contours). We would talk about how points and lines were burned into our vision, seeing those shapes when we closed our eyes at night. As with my internship, working dilligently on editing paved the way to learn LiDAR processing. Post processing or GPS, IMU, and laser data, sensor calibration, and were mostly separate steps, but provided valuable insight into  the *__LiDAR data processing pipeline__*. It a very challenging, but rewarding experience.
+
+__...to be continued__
