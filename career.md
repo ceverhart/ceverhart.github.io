@@ -31,4 +31,11 @@ During the time I was at the merged company, I started a masters program at the 
 ### LiDAR and GIS, bigger opportunity
 As I was finishing my masters program, I got a call from an colleague who was hiring "project coordinators" for a growing LiDAR processing department. The role would be provide technical leadership and coordinate work on projects, including tracking all phases of LiDAR production. It also gave me a chance to mentor some really great people, which made me feel like the time I had spent learning well worth it and very rewarding. This company had purchased their sensors and was using commercial processing software for LiDAR post-processing. That gave me a chance to learn the commercial software using the knowledge I had gained from working with proprietary software. There were sonme features that the commercial software didn't have, so the department director assigned me a project early in my time there - build an ArcGIS extension to track acquisition, processing, and editing. 
 
+Building that ArcGIS LiDAR tracking extension was a transition to developing and using GIS for mapping production work. The tracking extension was a success, and it was used for a couple of years. There were also other ways to apply GIS to aerial mapping and I embraced those opportunities. Processing breaklines, automating raster and vector product generation, and LiDAR dataset QC tools. It was also during this time that I started making use of the LAS header. The LAS specification was very straightforward and alllowed me to get more from our LiDAR datasets. One of my favorite tools came out of that time - LAS bounding box to shapefile.
+
+After a few years, I left that company to become a developer for a LiDAR software startup. The objective of that new job was to build an ArcGIS extension for their LiDAR processing software. I did build that extension, but the company was not successful and I ended up at the company (from the last two paragraphs). I returned to that company as a technical lead, picking up much of the GIS work that I had done on the first round.
+
+### Enterprise Applications
+
+
 __...to be continued__
